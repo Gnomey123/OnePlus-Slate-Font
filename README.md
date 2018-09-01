@@ -14,3 +14,5 @@ Credits to ZeevoX @ OnePlus Forum for the[ .ttf files](https://forums.oneplus.ne
 - V1.1: *Update ttf files and minor code changes*
 - V1.2: *Code changes*
 - V1.3: *Update ttf files (clean install recommended)*
+- V1.4: *Merge Template 1700*
+
